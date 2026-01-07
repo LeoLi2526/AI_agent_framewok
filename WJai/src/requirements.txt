@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchain-openai
+langchain-core
+langfuse
+python-dotenv
+transformers
+torch
+pyaudio
+dashscope
+numpy
+accelerate
+protobuf
+sentencepiece

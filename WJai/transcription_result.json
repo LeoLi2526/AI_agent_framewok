@@ -1,0 +1,16 @@
+{
+    "meta": {
+        "mode": "microphone",
+        "start_time": "2026-01-07 10:47:37",
+        "end_time": "2026-01-07 10:47:51"
+    },
+    "content": [
+        {
+            "timestamp": "2026-01-07 10:47:46",
+            "speaker": "Speaker 1",
+            "text": "咳。",
+            "status": "final"
+        }
+    ],
+    "full_text": "[Speaker 1] 咳。"
+}
